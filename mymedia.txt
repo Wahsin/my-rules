@@ -1,2 +1,3 @@
 payload:
   - '+.pikpak.com'
+  - '+.youtube.com'
