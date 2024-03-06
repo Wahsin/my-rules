@@ -1,4 +1,4 @@
 payload:
   - '+.javdb.com'
   - '+.airav5.fun'
-  - '+.paycalling.com'
+  - '+.airav.cc'
