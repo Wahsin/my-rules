@@ -1,4 +1,0 @@
-payload:
-  - '+.mypikpak.com'
-  - '+.javbus.com'
-  - '+.javdb.com'

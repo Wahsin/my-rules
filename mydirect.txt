@@ -1,0 +1,6 @@
+payload:
+  - '+.dockerproxy.com'
+  - '+.ldmnq.com'
+  - '+.yuanshen.com'
+  - '+.mihoyo.com'
+  - '+.123pan.com'
